@@ -1,1 +1,43 @@
-# NASCAR-Fantasy-Atlanta
+# NASCAR Fantasy Atlanta
+
+Welcome to the NASCAR Fantasy Atlanta repository! This project is designed to help you manage and track your NASCAR fantasy team for the Atlanta race.
+
+## Features
+
+- Track driver performance and statistics
+- Manage your fantasy team lineup
+- Predict race outcomes based on historical data
+- Visualize team performance and predictions
+
+## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+
+### Prerequisites
+
+- Python  3
+
+### Installation
+
+1. Clone the repository:
+2. Navigate to the project directory:
+
+
+## Usage
+
+Provide instructions on how to use the application, including any necessary commands or steps to take.
+
+## Contributing
+
+Contributions are welcome! Please read the [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
+
+
+
+
+
+
